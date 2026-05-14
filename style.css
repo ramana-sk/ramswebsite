@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  color: #222;
+  line-height: 1.6;
+}
+
+nav {
+  background: white;
+  padding: 16px 24px;
+  border-bottom: 1px solid #ddd;
+}
+
+nav a {
+  margin-right: 16px;
+  text-decoration: none;
+  color: #222;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #0066cc;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+.hero {
+  margin-bottom: 48px;
+}
+
+h1, h2 {
+  margin-bottom: 12px;
+}
+
+p {
+  margin-bottom: 24px;
+}
